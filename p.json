@@ -1,0 +1,257 @@
+{
+    "list": [
+        {
+            "id": 10144883,
+            "label": "Omar (F1J-713)",
+            "group_id": 5281,
+            "source": {
+                "id": 10081641,
+                "device_id": "350424063326043",
+                "model": "telfmb920",
+                "blocked": false,
+                "tariff_id": 1844,
+                "phone": "9487467383",
+                "status_listing_id": null,
+                "creation_date": "2022-05-13",
+                "tariff_end_date": "2023-04-01"
+            },
+            "tag_bindings": [],
+            "clone": false
+        },
+        {
+            "id": 10145164,
+            "label": "ADRI\u00c1N (C8C-916)",
+            "group_id": 5281,
+            "source": {
+                "id": 10081858,
+                "device_id": "350424063325987",
+                "model": "telfmb920",
+                "blocked": false,
+                "tariff_id": 1844,
+                "phone": "9349494949",
+                "status_listing_id": null,
+                "creation_date": "2022-05-16",
+                "tariff_end_date": "2023-04-01"
+            },
+            "tag_bindings": [],
+            "clone": false
+        },
+        {
+            "id": 10146976,
+            "label": "Valdelomar (TBA-911)",
+            "group_id": 5281,
+            "source": {
+                "id": 10083387,
+                "device_id": "350424063325524",
+                "model": "telfmb920",
+                "blocked": false,
+                "tariff_id": 1844,
+                "phone": "9455858585",
+                "status_listing_id": null,
+                "creation_date": "2022-05-25",
+                "tariff_end_date": "2023-04-01"
+            },
+            "tag_bindings": [],
+            "clone": false
+        },
+        {
+            "id": 10149406,
+            "label": "JHONNY (C3L-780)",
+            "group_id": 5281,
+            "source": {
+                "id": 10085434,
+                "device_id": "352625699803449",
+                "model": "telfmb920",
+                "blocked": false,
+                "tariff_id": 1844,
+                "phone": "94944848484",
+                "status_listing_id": null,
+                "creation_date": "2022-05-31",
+                "tariff_end_date": "2023-04-01"
+            },
+            "tag_bindings": [],
+            "clone": false
+        },
+        {
+            "id": 10153222,
+            "label": "T7B-877",
+            "group_id": 5945,
+            "source": {
+                "id": 10087387,
+                "device_id": "350424063337974",
+                "model": "telfmb920",
+                "blocked": false,
+                "tariff_id": 1844,
+                "phone": "987655443356",
+                "status_listing_id": null,
+                "creation_date": "2022-06-02",
+                "tariff_end_date": "2023-04-01"
+            },
+            "tag_bindings": [],
+            "clone": false
+        },
+        {
+            "id": 10164469,
+            "label": "F2B-821",
+            "group_id": 5761,
+            "source": {
+                "id": 10095873,
+                "device_id": "350424065275099",
+                "model": "telfmb920",
+                "blocked": false,
+                "tariff_id": 1844,
+                "phone": "9587558458",
+                "status_listing_id": null,
+                "creation_date": "2022-08-14",
+                "tariff_end_date": "2023-04-01"
+            },
+            "tag_bindings": [],
+            "clone": false
+        },
+        {
+            "id": 10164573,
+            "label": "B4J-746",
+            "group_id": 5761,
+            "source": {
+                "id": 10095963,
+                "device_id": "350424065280271",
+                "model": "telfmb920",
+                "blocked": false,
+                "tariff_id": 1844,
+                "phone": "9874563285",
+                "status_listing_id": null,
+                "creation_date": "2022-08-16",
+                "tariff_end_date": "2023-04-01"
+            },
+            "tag_bindings": [],
+            "clone": false
+        },
+        {
+            "id": 10164623,
+            "label": "F1Z-904",
+            "group_id": 5761,
+            "source": {
+                "id": 10095998,
+                "device_id": "350424065279992",
+                "model": "telfmb920",
+                "blocked": false,
+                "tariff_id": 1844,
+                "phone": "98766554433",
+                "status_listing_id": null,
+                "creation_date": "2022-08-16",
+                "tariff_end_date": "2023-04-01"
+            },
+            "tag_bindings": [],
+            "clone": false
+        },
+        {
+            "id": 10169301,
+            "label": "Omar  (BPS-942)",
+            "group_id": 5281,
+            "source": {
+                "id": 10099796,
+                "device_id": "355710090107207",
+                "model": "protrack_vt05",
+                "blocked": false,
+                "tariff_id": 1844,
+                "phone": "34590101454",
+                "status_listing_id": null,
+                "creation_date": "2022-09-19",
+                "tariff_end_date": "2023-04-01"
+            },
+            "tag_bindings": [],
+            "clone": false
+        },
+        {
+            "id": 10169302,
+            "label": "WALTER (BPT-826)",
+            "group_id": 5281,
+            "source": {
+                "id": 10099797,
+                "device_id": "355710090106852",
+                "model": "protrack_vt05",
+                "blocked": false,
+                "tariff_id": 1844,
+                "phone": "955744855",
+                "status_listing_id": null,
+                "creation_date": "2022-09-19",
+                "tariff_end_date": "2023-04-01"
+            },
+            "tag_bindings": [],
+            "clone": false
+        },
+        {
+            "id": 10171040,
+            "label": "V2P-700",
+            "group_id": 5945,
+            "source": {
+                "id": 10101177,
+                "device_id": "350544507131780",
+                "model": "telfmb920",
+                "blocked": false,
+                "tariff_id": 1844,
+                "phone": "004007120",
+                "status_listing_id": null,
+                "creation_date": "2022-10-04",
+                "tariff_end_date": "2023-04-01"
+            },
+            "tag_bindings": [],
+            "clone": false
+        },
+        {
+            "id": 10173214,
+            "label": "JAENS (TCH-919)",
+            "group_id": 5281,
+            "source": {
+                "id": 10102911,
+                "device_id": "350424065005819",
+                "model": "telfmb920",
+                "blocked": false,
+                "tariff_id": 1844,
+                "phone": "97654456788",
+                "status_listing_id": null,
+                "creation_date": "2022-10-21",
+                "tariff_end_date": "2023-04-01"
+            },
+            "tag_bindings": [],
+            "clone": false
+        },
+        {
+            "id": 10177112,
+            "label": "RIGOBERTO (ATI-914)",
+            "group_id": 5281,
+            "source": {
+                "id": 10105954,
+                "device_id": "350424065276436",
+                "model": "telfmb920",
+                "blocked": false,
+                "tariff_id": 1844,
+                "phone": "9628528563",
+                "status_listing_id": null,
+                "creation_date": "2022-11-12",
+                "tariff_end_date": "2023-04-01"
+            },
+            "tag_bindings": [],
+            "clone": false
+        },
+        {
+            "id": 10180386,
+            "label": "MARIO D2O-774",
+            "group_id": 5281,
+            "source": {
+                "id": 10108073,
+                "device_id": "355710090323713",
+                "model": "protrack_vt05",
+                "blocked": false,
+                "tariff_id": 1844,
+                "phone": "966845455",
+                "status_listing_id": null,
+                "creation_date": "2022-12-13",
+                "tariff_end_date": "2023-04-01"
+            },
+            "tag_bindings": [],
+            "clone": false
+        }
+    ],
+    "success": true
+}
